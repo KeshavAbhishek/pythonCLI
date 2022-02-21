@@ -4,4 +4,4 @@
 #
 # Rendering in Real-Time with Opencv
 ##### Module needed :-
-- [*`cv2`*](https://www.pypi.org/opencv-python)
+- [*`cv2`*](https://pypi.org/project/opencv-python/)
